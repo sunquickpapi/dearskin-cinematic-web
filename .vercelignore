@@ -1,0 +1,11 @@
+node_modules
+.git
+.vercel
+.npm-cache
+dist
+dist-ssr
+.output
+.vinxi
+.tanstack
+.nitro
+.wrangler
